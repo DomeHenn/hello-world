@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hallo zusammen.
+
+Das ist hier eine Testfunktion und ein Beispielprojekt bei GitHub.
